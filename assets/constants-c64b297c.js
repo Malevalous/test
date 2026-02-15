@@ -1,0 +1,1 @@
+globalThis.jotaiAtomCache=globalThis.jotaiAtomCache||{cache:new Map,get(t,a){return this.cache.has(t)?this.cache.get(t):(this.cache.set(t,a),a)}};const c=25,e=[3,5,7,9,13],h=6e4;export{c as F,h as M,e as R};
